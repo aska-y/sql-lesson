@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    border-left: 10px solid #666;
+    margin: 10px;
+    padding: 10px;
+}
+
+p{
+    margin: 10px;
+    padding: 10px;
+}
+
+table{
+    margin: 10px;
+    width: 800px;
+    text-align: center;
+    border-collapse: collapse;
+    cursor: pointer;
+}
+
+table th{
+    border: solid 1px gray;
+    color: #333;
+    background: #DDEEFF;
+    padding: 10px;
+}
+
+table td{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+table tr:hover{
+    background-color: #fbfbe7;
+}
